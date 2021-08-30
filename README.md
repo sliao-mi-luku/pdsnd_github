@@ -22,3 +22,17 @@ It's important to give proper credit. Add links to any repo that inspired you or
 2. **Does the mean trip duration depend on the day of the week (or the month)?**
 
 3. **What are the top 3 popular start stations in each city?**
+
+### Results
+
+**Summary of Question 1**
+
+1. The mean trip duration is:
+
+708.9 secs (~11.8 mins) in New York\
+778.47 secs (~13 mins) in Washington\
+746.3 secs (~12.4 mins) in Chicago
+
+2. By t-test, the mean trip duration in Washington is greater than in New York and Chicago.
+
+3. Outliers (that are too large) were removed from the data in this analysis.
